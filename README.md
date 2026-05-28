@@ -1,5 +1,5 @@
 <!--Banner-->
-![SumitSartale Banner Image](./banner.png)
+![Harshitha Nunna Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
